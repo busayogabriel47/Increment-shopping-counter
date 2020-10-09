@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: #3fe0d0;
+}
+.random {
+    background-color: #fff;
+    margin-top: 40px;
+    padding: 10px;
+    box-shadow: 10px 5px 1px rgba(0, 0, 0, 0.13);
+}
+.count{
+    background-color: #fff;
+    padding: 80px;
+    font-size: 2em;
+    font-weight: bold;
+}
