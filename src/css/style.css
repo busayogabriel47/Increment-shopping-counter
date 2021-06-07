@@ -17,3 +17,12 @@ body{
     font-size: 2em;
     font-weight: bold;
 }
+
+.thumbnail{
+    background: grey;
+    padding: 0.8em;
+    margin-bottom: 1em;
+}
+.thumbnail a{
+    color: rgb(241, 190, 21);
+}
